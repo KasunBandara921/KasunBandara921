@@ -1,16 +1,64 @@
-## Hi there 👋
+# 👋 Hi, I'm Kasun Bandara
 
-<!--
-**KasunBandara921/KasunBandara921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT Undergraduate at the University of Moratuwa  
+💻 Aspiring Software Engineer | Full-Stack Developer  
+☁️ Cloud & DevOps Enthusiast
 
-Here are some ideas to get you started:
+I enjoy building practical software applications and exploring modern technologies to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+Java • TypeScript • JavaScript • C/C++ • SQL
+
+### 🎨 Frontend
+React.js • Next.js • HTML • CSS • Tailwind CSS
+
+### ⚙️ Backend
+Spring Boot • Node.js • Express.js • REST APIs
+
+### 🗄️ Database
+PostgreSQL • MySQL • Prisma
+
+### ☁️ Cloud & DevOps
+AWS • Docker • Linux • Git • GitHub
+
+---
+
+## 🚀 Featured Projects
+
+### 🏢 HR Mate
+**Human Resource Management System**
+
+Next.js • Spring Boot • PostgreSQL • Docker
+
+### 💰 SmartSpend
+**AI-powered Expense Tracking Application**
+
+Next.js • Gemini API • Prisma • PostgreSQL • Asgardeo
+
+### 🛒 PosiQ AI POS
+**AI-powered Point of Sale System**
+
+Next.js • PostgreSQL • Prisma • Gemini API
+
+---
+
+## 🌱 Currently Learning
+
+- ☁️ AWS & Cloud Computing
+- 🐧 Linux & DevOps
+- 🏗️ System Design
+- ☕ Advanced Spring Boot
+
+---
+
+## 📫 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KasunBandara921)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
